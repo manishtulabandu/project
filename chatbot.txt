@@ -1,0 +1,3 @@
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-de&integrationID=84946c69-d5e9-42fa-9331-b195e05abce5&serviceInstanceID=17693ae4-d554-47c6-be1e-d6fafb39608d
+
+https://eu-de.assistant.watson.cloud.ibm.com/crn%3Av1%3Abluemix%3Apublic%3Aconversation%3Aeu-de%3Aa%2Fbe62dde128ca47e5b710c622f434c213%3A17693ae4-d554-47c6-be1e-d6fafb39608d%3A%3A/skills
